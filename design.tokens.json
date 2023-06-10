@@ -1,0 +1,1686 @@
+{
+  "$description": "Scott Rouse Design System (sfr) Design Tokens",
+  "sfr": {
+    "$extensions": {
+      "dsys.level": "sheet",
+      "dsys.prefix": "sfr",
+      "dsys.fullName": "Scott Rouse Design System"
+    },
+    "color": {
+      "$extensions": {
+        "dsys.level": "group",
+        "dsys.type": "ColorSet",
+        "dsys.nodeIds": []
+      },
+      "$description": "All the color tokens",
+      "primary": {
+        "$extensions": {
+          "dsys.level": "tokenset",
+          "dsys.type": "ColorSet",
+          "dsys.name": "primary",
+          "dsys.nodeId": "1:201"
+        },
+        "$description": "primary color tokens",
+        "primary-10": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "primary-10",
+            "dsys.index": 0,
+            "dsys.styleId": "S:5a5de08185788951d9e62605ce87892b834faf55,"
+          },
+          "$value": {
+            "hex": "#002e5c",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "primary-20": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "primary-20",
+            "dsys.index": 1,
+            "dsys.styleId": "S:eb9bb5a5d181cd0d2c0258231a0642158bc90cd7,"
+          },
+          "$value": {
+            "hex": "#003e7b",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "primary-30": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "primary-30",
+            "dsys.index": 2,
+            "dsys.styleId": "S:9fb9262336691437a4e72f4a7beebabca06fbf75,"
+          },
+          "$value": {
+            "hex": "#004d9a",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "primary-40": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "primary-40",
+            "dsys.index": 3,
+            "dsys.styleId": "S:d7e4f29ab0eb4a2b201afd5e1568dd10291a8f72,"
+          },
+          "$value": {
+            "hex": "#005dba",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "primary-50": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "primary-50",
+            "dsys.index": 4,
+            "dsys.styleId": "S:fc306a23b6e88ac73a36cd94612d0fef49abe3ad,"
+          },
+          "$value": {
+            "hex": "#0074e8",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "primary": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "primary",
+            "dsys.index": 5,
+            "dsys.styleId": "S:3281e3dee695db9f22820f020360da68a22842cc,"
+          },
+          "$value": {
+            "hex": "#0074e8",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "primary-60": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "primary-60",
+            "dsys.index": 6,
+            "dsys.styleId": "S:f979a0b77c22c686950fad61173ee93a2043ea46,"
+          },
+          "$value": {
+            "hex": "#2f8eed",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "primary-70": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "primary-70",
+            "dsys.index": 7,
+            "dsys.styleId": "S:e590bf10213ed36fc8cb276b753a205fb0b05cf9,"
+          },
+          "$value": {
+            "hex": "#62abf5",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "primary-80": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "primary-80",
+            "dsys.index": 8,
+            "dsys.styleId": "S:2e850b27b47a80217e98d87597195a4f531b0936,"
+          },
+          "$value": {
+            "hex": "#97cafc",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "primary-90": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "primary-90",
+            "dsys.index": 9,
+            "dsys.styleId": "S:68944e55b2a20128291090add8deffdf014cd620,"
+          },
+          "$value": {
+            "hex": "#cce6ff",
+            "alpha": 1
+          },
+          "$type": "color"
+        }
+      },
+      "grey": {
+        "$extensions": {
+          "dsys.level": "tokenset",
+          "dsys.type": "ColorSet",
+          "dsys.name": "grey",
+          "dsys.nodeId": "1:688"
+        },
+        "$description": "grey color tokens",
+        "grey-00": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "grey-00",
+            "dsys.index": 0,
+            "dsys.styleId": "S:ec6c3b3af53078110a2a1103de757c711d01ed0f,"
+          },
+          "$value": {
+            "hex": "#000000",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "grey-10": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "grey-10",
+            "dsys.index": 1,
+            "dsys.styleId": "S:aa063b73e2f7fb3e9024f37e5dcc667e97898c21,"
+          },
+          "$value": {
+            "hex": "#1a1a1a",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "grey-20": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "grey-20",
+            "dsys.index": 2,
+            "dsys.styleId": "S:92ce2993f6f85e536947cdfea29bac7e561f95ff,"
+          },
+          "$value": {
+            "hex": "#333333",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "grey-30": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "grey-30",
+            "dsys.index": 3,
+            "dsys.styleId": "S:ca8d446d2d716852382b8f7ff8bd328c29537c73,"
+          },
+          "$value": {
+            "hex": "#525252",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "grey-40": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "grey-40",
+            "dsys.index": 4,
+            "dsys.styleId": "S:29a8f4a49e3f28b3b82a189e9908a1e8c52d4c9e,"
+          },
+          "$value": {
+            "hex": "#636363",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "grey-50": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "grey-50",
+            "dsys.index": 5,
+            "dsys.styleId": "S:a2f0b1a8b2477a4a44f95f2ee0b5575a706d018d,"
+          },
+          "$value": {
+            "hex": "#757575",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "grey": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "grey",
+            "dsys.index": 6,
+            "dsys.styleId": "S:fd60e70fefb5a173b36131ba4477b76f5584c973,"
+          },
+          "$value": {
+            "hex": "#757575",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "grey-60": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "grey-60",
+            "dsys.index": 7,
+            "dsys.styleId": "S:132c2033385c494ea38e7aece43e273b4c76aa11,"
+          },
+          "$value": {
+            "hex": "#919191",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "grey-70": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "grey-70",
+            "dsys.index": 8,
+            "dsys.styleId": "S:8951c5ce18e103af018e61c487b0af4c3f05b498,"
+          },
+          "$value": {
+            "hex": "#a8a8a8",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "grey-80": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "grey-80",
+            "dsys.index": 9,
+            "dsys.styleId": "S:5cb5fef1283855fb30f825e95c614c75f0f7b667,"
+          },
+          "$value": {
+            "hex": "#c4c4c4",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "grey-90": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "grey-90",
+            "dsys.index": 10,
+            "dsys.styleId": "S:eed54034df91698760dac9b4c8087e0c0cf2e629,"
+          },
+          "$value": {
+            "hex": "#dbdbdb",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "grey-100": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "grey-100",
+            "dsys.index": 11,
+            "dsys.styleId": "S:342eca1290ce6143ead6075b4ed6c9f9e7ac47f3,"
+          },
+          "$value": {
+            "hex": "#ffffff",
+            "alpha": 1
+          },
+          "$type": "color"
+        }
+      },
+      "secondary": {
+        "$extensions": {
+          "dsys.level": "tokenset",
+          "dsys.type": "ColorSet",
+          "dsys.name": "secondary",
+          "dsys.nodeId": "1:1267"
+        },
+        "$description": "secondary color tokens",
+        "secondary-10": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "secondary-10",
+            "dsys.index": 0,
+            "dsys.styleId": "S:0b8e290c00b826b1bf940d597b1ed220921ffa1b,"
+          },
+          "$value": {
+            "hex": "#5c2000",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "secondary-20": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "secondary-20",
+            "dsys.index": 1,
+            "dsys.styleId": "S:22d04deac87b81bae15c3749c173d80f56033db5,"
+          },
+          "$value": {
+            "hex": "#782a00",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "secondary-30": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "secondary-30",
+            "dsys.index": 2,
+            "dsys.styleId": "S:5bb504ae15686146c2c2063e456c7ed7d0bc1aed,"
+          },
+          "$value": {
+            "hex": "#953400",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "secondary-40": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "secondary-40",
+            "dsys.index": 3,
+            "dsys.styleId": "S:4c4a815c4eeabcab881de221c9642d82dc5f0867,"
+          },
+          "$value": {
+            "hex": "#b23e00",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "secondary-50": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "secondary-50",
+            "dsys.index": 4,
+            "dsys.styleId": "S:631bd77e177bf05b850d874e896cd69e033fcf56,"
+          },
+          "$value": {
+            "hex": "#cf4800",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "secondary": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "secondary",
+            "dsys.index": 5,
+            "dsys.styleId": "S:a03db20dc86bc905cb751c8ce3472bc55931ffea,"
+          },
+          "$value": {
+            "hex": "#cf4800",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "secondary-60": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "secondary-60",
+            "dsys.index": 6,
+            "dsys.styleId": "S:c7d188463a88aa6befb6cc16c8e7ff418fcfce8e,"
+          },
+          "$value": {
+            "hex": "#db692c",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "secondary-70": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "secondary-70",
+            "dsys.index": 7,
+            "dsys.styleId": "S:4bfe80af14c98c66187aae3311bd644737a66cab,"
+          },
+          "$value": {
+            "hex": "#e78d5c",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "secondary-80": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "secondary-80",
+            "dsys.index": 8,
+            "dsys.styleId": "S:c2edee81427ff0e7c69ba072f0892d4767b33bc9,"
+          },
+          "$value": {
+            "hex": "#f3b492",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "secondary-90": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "secondary-90",
+            "dsys.index": 9,
+            "dsys.styleId": "S:5f15711091440387764426345efcc0da0a329724,"
+          },
+          "$value": {
+            "hex": "#ffdecc",
+            "alpha": 1
+          },
+          "$type": "color"
+        }
+      }
+    },
+    "type": {
+      "$extensions": {
+        "dsys.level": "group",
+        "dsys.type": "TypographySet",
+        "dsys.nodeIds": []
+      },
+      "$description": "All the type tokens",
+      "text": {
+        "$extensions": {
+          "dsys.level": "tokenset",
+          "dsys.type": "TypographySet",
+          "dsys.name": "text",
+          "dsys.nodeId": "1:1775"
+        },
+        "$description": "text typography tokens",
+        "text-100": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-100",
+            "dsys.index": 0,
+            "dsys.styleId": "S:332f8ba156fbc5f05ea2185871d06fed05f81dcf,"
+          },
+          "$value": {
+            "fontFamily": "Source Sans Pro",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Source Sans Pro",
+              "style": "Regular"
+            },
+            "fontWeight": 400,
+            "fontSize": 29,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-90": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-90",
+            "dsys.index": 1,
+            "dsys.styleId": "S:1ac5d24c44cec02fffa9b6878e26dc3ccf8eadc1,"
+          },
+          "$value": {
+            "fontFamily": "Source Sans Pro",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Source Sans Pro",
+              "style": "Regular"
+            },
+            "fontWeight": 400,
+            "fontSize": 24,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-80": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-80",
+            "dsys.index": 2,
+            "dsys.styleId": "S:8ef9b3631247150f33f132e934dac9f0336ae964,"
+          },
+          "$value": {
+            "fontFamily": "Source Sans Pro",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Source Sans Pro",
+              "style": "Regular"
+            },
+            "fontWeight": 400,
+            "fontSize": 21,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-70": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-70",
+            "dsys.index": 3,
+            "dsys.styleId": "S:6a5addff7ded61a3bd9fa27cbfffb32f5de6f002,"
+          },
+          "$value": {
+            "fontFamily": "Source Sans Pro",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Source Sans Pro",
+              "style": "Regular"
+            },
+            "fontWeight": 400,
+            "fontSize": 19,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-60": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-60",
+            "dsys.index": 4,
+            "dsys.styleId": "S:f1700e1ab690585416010e55ab7487f4f76b7d97,"
+          },
+          "$value": {
+            "fontFamily": "Source Sans Pro",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Source Sans Pro",
+              "style": "Regular"
+            },
+            "fontWeight": 400,
+            "fontSize": 17,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-50": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-50",
+            "dsys.index": 5,
+            "dsys.styleId": "S:690a8fe009e4cfbfa7a91ab1a3b9049c1db262a1,"
+          },
+          "$value": {
+            "fontFamily": "Source Sans Pro",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Source Sans Pro",
+              "style": "Regular"
+            },
+            "fontWeight": 400,
+            "fontSize": 16,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text",
+            "dsys.index": 6,
+            "dsys.styleId": "S:95b53bb59d526bc8c004eb6ab0b20cc3625c0a76,"
+          },
+          "$value": {
+            "fontFamily": "Source Sans Pro",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Source Sans Pro",
+              "style": "Regular"
+            },
+            "fontWeight": 400,
+            "fontSize": 16,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-40": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-40",
+            "dsys.index": 7,
+            "dsys.styleId": "S:456dd45e1f1ffd628f8bcc6f152df3262d50e362,"
+          },
+          "$value": {
+            "fontFamily": "Source Sans Pro",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Source Sans Pro",
+              "style": "Regular"
+            },
+            "fontWeight": 400,
+            "fontSize": 15,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-30": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-30",
+            "dsys.index": 8,
+            "dsys.styleId": "S:9fd17f27dbbcdd7c11679f0740740c4339fca1b2,"
+          },
+          "$value": {
+            "fontFamily": "Source Sans Pro",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Source Sans Pro",
+              "style": "Regular"
+            },
+            "fontWeight": 400,
+            "fontSize": 14,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-20": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-20",
+            "dsys.index": 9,
+            "dsys.styleId": "S:a53fc4caa736dc97498021fbf962522ff2d5c70d,"
+          },
+          "$value": {
+            "fontFamily": "Source Sans Pro",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Source Sans Pro",
+              "style": "Regular"
+            },
+            "fontWeight": 400,
+            "fontSize": 12,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-10": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-10",
+            "dsys.index": 10,
+            "dsys.styleId": "S:a7ce4cc1cf34cc8361dbe629765d1984277dc31a,"
+          },
+          "$value": {
+            "fontFamily": "Source Sans Pro",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Source Sans Pro",
+              "style": "Regular"
+            },
+            "fontWeight": 400,
+            "fontSize": 11,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        }
+      },
+      "text-bold": {
+        "$extensions": {
+          "dsys.level": "tokenset",
+          "dsys.type": "TypographySet",
+          "dsys.name": "text-bold",
+          "dsys.nodeId": "1:2566"
+        },
+        "$description": "text-bold typography tokens",
+        "text-bold-100": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-bold-100",
+            "dsys.index": 0,
+            "dsys.styleId": "S:ab966ccce8d492ea492700528494555ea6fa8398,"
+          },
+          "$value": {
+            "fontFamily": "Source Sans Pro",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Source Sans Pro",
+              "style": "Bold"
+            },
+            "fontWeight": 700,
+            "fontSize": 29,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-bold-90": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-bold-90",
+            "dsys.index": 1,
+            "dsys.styleId": "S:df08e5cc56378539743135a238552adb6adc3269,"
+          },
+          "$value": {
+            "fontFamily": "Source Sans Pro",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Source Sans Pro",
+              "style": "Bold"
+            },
+            "fontWeight": 700,
+            "fontSize": 24,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-bold-80": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-bold-80",
+            "dsys.index": 2,
+            "dsys.styleId": "S:3734a1ef63c1a17c57e50d3d0a7d4c807ae287b4,"
+          },
+          "$value": {
+            "fontFamily": "Source Sans Pro",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Source Sans Pro",
+              "style": "Bold"
+            },
+            "fontWeight": 700,
+            "fontSize": 21,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-bold-70": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-bold-70",
+            "dsys.index": 3,
+            "dsys.styleId": "S:b2c54a7c0b637c693cf4ab2c5ecb7e11cea97dac,"
+          },
+          "$value": {
+            "fontFamily": "Source Sans Pro",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Source Sans Pro",
+              "style": "Bold"
+            },
+            "fontWeight": 700,
+            "fontSize": 19,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-bold-60": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-bold-60",
+            "dsys.index": 4,
+            "dsys.styleId": "S:ddd7c66650687b73c80d40751efa0d889a445f38,"
+          },
+          "$value": {
+            "fontFamily": "Source Sans Pro",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Source Sans Pro",
+              "style": "Bold"
+            },
+            "fontWeight": 700,
+            "fontSize": 17,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-bold-50": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-bold-50",
+            "dsys.index": 5,
+            "dsys.styleId": "S:450ca3243bed2513ed62658b630ba3c68cdc5fdb,"
+          },
+          "$value": {
+            "fontFamily": "Source Sans Pro",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Source Sans Pro",
+              "style": "Bold"
+            },
+            "fontWeight": 700,
+            "fontSize": 16,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-bold": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-bold",
+            "dsys.index": 6,
+            "dsys.styleId": "S:4e19a13bf37ad2c51b6fc5394dc0a5fc083399c5,"
+          },
+          "$value": {
+            "fontFamily": "Source Sans Pro",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Source Sans Pro",
+              "style": "Bold"
+            },
+            "fontWeight": 700,
+            "fontSize": 16,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-bold-40": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-bold-40",
+            "dsys.index": 7,
+            "dsys.styleId": "S:5300e7c49b609e706975f0c266fb21b870e2beb4,"
+          },
+          "$value": {
+            "fontFamily": "Source Sans Pro",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Source Sans Pro",
+              "style": "Bold"
+            },
+            "fontWeight": 700,
+            "fontSize": 15,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-bold-30": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-bold-30",
+            "dsys.index": 8,
+            "dsys.styleId": "S:85bca42e4ffb29f4107a1aba7008bb503a63526b,"
+          },
+          "$value": {
+            "fontFamily": "Source Sans Pro",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Source Sans Pro",
+              "style": "Bold"
+            },
+            "fontWeight": 700,
+            "fontSize": 14,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-bold-20": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-bold-20",
+            "dsys.index": 9,
+            "dsys.styleId": "S:26f4071f52b10f59fee97665b6910f9c660144ab,"
+          },
+          "$value": {
+            "fontFamily": "Source Sans Pro",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Source Sans Pro",
+              "style": "Bold"
+            },
+            "fontWeight": 700,
+            "fontSize": 12,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-bold-10": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-bold-10",
+            "dsys.index": 10,
+            "dsys.styleId": "S:a491f179f4386bbd019d3526afb1444a1cc2c5b5,"
+          },
+          "$value": {
+            "fontFamily": "Source Sans Pro",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Source Sans Pro",
+              "style": "Bold"
+            },
+            "fontWeight": 700,
+            "fontSize": 11,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        }
+      },
+      "text-semibold": {
+        "$extensions": {
+          "dsys.level": "tokenset",
+          "dsys.type": "TypographySet",
+          "dsys.name": "text-semibold",
+          "dsys.nodeId": "1:2996"
+        },
+        "$description": "text-semibold typography tokens",
+        "text-semibold-100": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-semibold-100",
+            "dsys.index": 0,
+            "dsys.styleId": "S:b9515be2bfd2451161856930e1d354f9ea04b958,"
+          },
+          "$value": {
+            "fontFamily": "Source Sans Pro",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Source Sans Pro",
+              "style": "SemiBold"
+            },
+            "fontWeight": 600,
+            "fontSize": 29,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-semibold-90": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-semibold-90",
+            "dsys.index": 1,
+            "dsys.styleId": "S:cb30d2fbafcf000920f55d8946ef12e01a49aefe,"
+          },
+          "$value": {
+            "fontFamily": "Source Sans Pro",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Source Sans Pro",
+              "style": "SemiBold"
+            },
+            "fontWeight": 600,
+            "fontSize": 24,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-semibold-80": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-semibold-80",
+            "dsys.index": 2,
+            "dsys.styleId": "S:21e41ba71e45b8ed9b8c661773ca35aa8da0a4cc,"
+          },
+          "$value": {
+            "fontFamily": "Source Sans Pro",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Source Sans Pro",
+              "style": "SemiBold"
+            },
+            "fontWeight": 600,
+            "fontSize": 21,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-semibold-70": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-semibold-70",
+            "dsys.index": 3,
+            "dsys.styleId": "S:79daff1778e564c3b11c483c3a32d6fb8cf6d18d,"
+          },
+          "$value": {
+            "fontFamily": "Source Sans Pro",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Source Sans Pro",
+              "style": "SemiBold"
+            },
+            "fontWeight": 600,
+            "fontSize": 19,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-semibold-60": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-semibold-60",
+            "dsys.index": 4,
+            "dsys.styleId": "S:33a772bc96b8d9bf18edcc671f76c53440af5fe1,"
+          },
+          "$value": {
+            "fontFamily": "Source Sans Pro",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Source Sans Pro",
+              "style": "SemiBold"
+            },
+            "fontWeight": 600,
+            "fontSize": 17,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-semibold-50": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-semibold-50",
+            "dsys.index": 5,
+            "dsys.styleId": "S:ada862e2dbcb09153fe1a79b35413123e466424b,"
+          },
+          "$value": {
+            "fontFamily": "Source Sans Pro",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Source Sans Pro",
+              "style": "SemiBold"
+            },
+            "fontWeight": 600,
+            "fontSize": 16,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-semibold": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-semibold",
+            "dsys.index": 6,
+            "dsys.styleId": "S:4c6829d6af253404aa9b55f507f44a7b82910cf2,"
+          },
+          "$value": {
+            "fontFamily": "Source Sans Pro",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Source Sans Pro",
+              "style": "SemiBold"
+            },
+            "fontWeight": 600,
+            "fontSize": 16,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-semibold-40": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-semibold-40",
+            "dsys.index": 7,
+            "dsys.styleId": "S:f6c4e9f1e6d9e905fb35c2627902c91514b214b3,"
+          },
+          "$value": {
+            "fontFamily": "Source Sans Pro",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Source Sans Pro",
+              "style": "SemiBold"
+            },
+            "fontWeight": 600,
+            "fontSize": 15,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-semibold-30": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-semibold-30",
+            "dsys.index": 8,
+            "dsys.styleId": "S:4a6765cbace190150c0451b3778e7ca5379f6180,"
+          },
+          "$value": {
+            "fontFamily": "Source Sans Pro",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Source Sans Pro",
+              "style": "SemiBold"
+            },
+            "fontWeight": 600,
+            "fontSize": 14,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-semibold-20": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-semibold-20",
+            "dsys.index": 9,
+            "dsys.styleId": "S:60b85440350802b14cd28a40f4728350e81df95f,"
+          },
+          "$value": {
+            "fontFamily": "Source Sans Pro",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Source Sans Pro",
+              "style": "SemiBold"
+            },
+            "fontWeight": 600,
+            "fontSize": 12,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-semibold-10": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-semibold-10",
+            "dsys.index": 10,
+            "dsys.styleId": "S:b00e4c349e6f764e98433ebc55774835688219d3,"
+          },
+          "$value": {
+            "fontFamily": "Source Sans Pro",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Source Sans Pro",
+              "style": "SemiBold"
+            },
+            "fontWeight": 600,
+            "fontSize": 11,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        }
+      }
+    },
+    "spacing": {
+      "$extensions": {
+        "dsys.level": "group",
+        "dsys.type": "Spacing",
+        "dsys.nodeIds": []
+      },
+      "$description": "All the spacing tokens",
+      "spacing": {
+        "$extensions": {
+          "dsys.level": "tokenset",
+          "dsys.type": "Spacing",
+          "dsys.name": "spacing",
+          "dsys.nodeId": "?"
+        },
+        "$description": "a set of spacing tokens",
+        "spacing-0": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "spacing-0",
+            "dsys.index": 0,
+            "dsys.uid": "_0_22lizls3htb"
+          },
+          "$type": "spacing",
+          "$value": 0
+        },
+        "spacing-0-3": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "spacing-0-3",
+            "dsys.index": 1,
+            "dsys.uid": "_1_q862za3qud"
+          },
+          "$type": "spacing",
+          "$value": 2.5
+        },
+        "spacing-0-6": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "spacing-0-6",
+            "dsys.index": 2,
+            "dsys.uid": "_2_1c0vd7k7rrl"
+          },
+          "$type": "spacing",
+          "$value": 5
+        },
+        "spacing-0-9": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "spacing-0-9",
+            "dsys.index": 3,
+            "dsys.uid": "_3_25jjxq2o1ct"
+          },
+          "$type": "spacing",
+          "$value": 7.5
+        },
+        "spacing-1": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "spacing-1",
+            "dsys.index": 4,
+            "dsys.uid": "_4_djym8vskrb"
+          },
+          "$type": "spacing",
+          "$value": 10
+        },
+        "spacing-1-3": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "spacing-1-3",
+            "dsys.index": 5,
+            "dsys.uid": "_5_2cy2r4gxicr"
+          },
+          "$type": "spacing",
+          "$value": 12.5
+        },
+        "spacing-1-6": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "spacing-1-6",
+            "dsys.index": 6,
+            "dsys.uid": "_6_2doh5vai3fj"
+          },
+          "$type": "spacing",
+          "$value": 15
+        },
+        "spacing-1-9": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "spacing-1-9",
+            "dsys.index": 7,
+            "dsys.uid": "_7_1m991ff3czl"
+          },
+          "$type": "spacing",
+          "$value": 17.5
+        },
+        "spacing-2": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "spacing-2",
+            "dsys.index": 8,
+            "dsys.uid": "_8_1y9nl9c3t9j"
+          },
+          "$type": "spacing",
+          "$value": 20
+        },
+        "spacing-3": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "spacing-3",
+            "dsys.index": 9,
+            "dsys.uid": "_9_kbs1lhazxb"
+          },
+          "$type": "spacing",
+          "$value": 30
+        },
+        "spacing-4": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "spacing-4",
+            "dsys.index": 10,
+            "dsys.uid": "_a_lwfr0fqirv"
+          },
+          "$type": "spacing",
+          "$value": 40
+        },
+        "spacing-5": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "spacing-5",
+            "dsys.index": 11,
+            "dsys.uid": "_b_x6bk31cjf9"
+          },
+          "$type": "spacing",
+          "$value": 50
+        },
+        "spacing-6": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "spacing-6",
+            "dsys.index": 12,
+            "dsys.uid": "_c_2c1o8buujo7"
+          },
+          "$type": "spacing",
+          "$value": 60
+        },
+        "spacing-7": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "spacing-7",
+            "dsys.index": 13,
+            "dsys.uid": "_d_qsol88xttb"
+          },
+          "$type": "spacing",
+          "$value": 70
+        },
+        "spacing-8": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "spacing-8",
+            "dsys.index": 14,
+            "dsys.uid": "_e_1kv3wv8ion"
+          },
+          "$type": "spacing",
+          "$value": 80
+        }
+      }
+    }
+  }
+}
