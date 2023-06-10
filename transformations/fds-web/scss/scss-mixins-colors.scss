@@ -1,0 +1,1152 @@
+@mixin background-color-primary-10 {
+  --background-color: var( --sfr-color-primary-10 );
+  background-color: var( --background-color );
+}
+@mixin background-color-primary-20 {
+  --background-color: var( --sfr-color-primary-20 );
+  background-color: var( --background-color );
+}
+@mixin background-color-primary-30 {
+  --background-color: var( --sfr-color-primary-30 );
+  background-color: var( --background-color );
+}
+@mixin background-color-primary-40 {
+  --background-color: var( --sfr-color-primary-40 );
+  background-color: var( --background-color );
+}
+@mixin background-color-primary-50 {
+  --background-color: var( --sfr-color-primary-50 );
+  background-color: var( --background-color );
+}
+@mixin background-color-primary {
+  --background-color: var( --sfr-color-primary );
+  background-color: var( --background-color );
+}
+@mixin background-color-primary-60 {
+  --background-color: var( --sfr-color-primary-60 );
+  background-color: var( --background-color );
+}
+@mixin background-color-primary-70 {
+  --background-color: var( --sfr-color-primary-70 );
+  background-color: var( --background-color );
+}
+@mixin background-color-primary-80 {
+  --background-color: var( --sfr-color-primary-80 );
+  background-color: var( --background-color );
+}
+@mixin background-color-primary-90 {
+  --background-color: var( --sfr-color-primary-90 );
+  background-color: var( --background-color );
+}
+@mixin background-color-grey-00 {
+  --background-color: var( --sfr-color-grey-00 );
+  background-color: var( --background-color );
+}
+@mixin background-color-grey-10 {
+  --background-color: var( --sfr-color-grey-10 );
+  background-color: var( --background-color );
+}
+@mixin background-color-grey-20 {
+  --background-color: var( --sfr-color-grey-20 );
+  background-color: var( --background-color );
+}
+@mixin background-color-grey-30 {
+  --background-color: var( --sfr-color-grey-30 );
+  background-color: var( --background-color );
+}
+@mixin background-color-grey-40 {
+  --background-color: var( --sfr-color-grey-40 );
+  background-color: var( --background-color );
+}
+@mixin background-color-grey-50 {
+  --background-color: var( --sfr-color-grey-50 );
+  background-color: var( --background-color );
+}
+@mixin background-color-grey {
+  --background-color: var( --sfr-color-grey );
+  background-color: var( --background-color );
+}
+@mixin background-color-grey-60 {
+  --background-color: var( --sfr-color-grey-60 );
+  background-color: var( --background-color );
+}
+@mixin background-color-grey-70 {
+  --background-color: var( --sfr-color-grey-70 );
+  background-color: var( --background-color );
+}
+@mixin background-color-grey-80 {
+  --background-color: var( --sfr-color-grey-80 );
+  background-color: var( --background-color );
+}
+@mixin background-color-grey-90 {
+  --background-color: var( --sfr-color-grey-90 );
+  background-color: var( --background-color );
+}
+@mixin background-color-grey-100 {
+  --background-color: var( --sfr-color-grey-100 );
+  background-color: var( --background-color );
+}
+@mixin background-color-secondary-10 {
+  --background-color: var( --sfr-color-secondary-10 );
+  background-color: var( --background-color );
+}
+@mixin background-color-secondary-20 {
+  --background-color: var( --sfr-color-secondary-20 );
+  background-color: var( --background-color );
+}
+@mixin background-color-secondary-30 {
+  --background-color: var( --sfr-color-secondary-30 );
+  background-color: var( --background-color );
+}
+@mixin background-color-secondary-40 {
+  --background-color: var( --sfr-color-secondary-40 );
+  background-color: var( --background-color );
+}
+@mixin background-color-secondary-50 {
+  --background-color: var( --sfr-color-secondary-50 );
+  background-color: var( --background-color );
+}
+@mixin background-color-secondary {
+  --background-color: var( --sfr-color-secondary );
+  background-color: var( --background-color );
+}
+@mixin background-color-secondary-60 {
+  --background-color: var( --sfr-color-secondary-60 );
+  background-color: var( --background-color );
+}
+@mixin background-color-secondary-70 {
+  --background-color: var( --sfr-color-secondary-70 );
+  background-color: var( --background-color );
+}
+@mixin background-color-secondary-80 {
+  --background-color: var( --sfr-color-secondary-80 );
+  background-color: var( --background-color );
+}
+@mixin background-color-secondary-90 {
+  --background-color: var( --sfr-color-secondary-90 );
+  background-color: var( --background-color );
+}
+@mixin background-color-hover-primary-10 {
+  &:hover {
+    background-color: var( --sfr-color-primary-10 );
+  }
+}
+@mixin background-color-hover-primary-20 {
+  &:hover {
+    background-color: var( --sfr-color-primary-20 );
+  }
+}
+@mixin background-color-hover-primary-30 {
+  &:hover {
+    background-color: var( --sfr-color-primary-30 );
+  }
+}
+@mixin background-color-hover-primary-40 {
+  &:hover {
+    background-color: var( --sfr-color-primary-40 );
+  }
+}
+@mixin background-color-hover-primary-50 {
+  &:hover {
+    background-color: var( --sfr-color-primary-50 );
+  }
+}
+@mixin background-color-hover-primary {
+  &:hover {
+    background-color: var( --sfr-color-primary );
+  }
+}
+@mixin background-color-hover-primary-60 {
+  &:hover {
+    background-color: var( --sfr-color-primary-60 );
+  }
+}
+@mixin background-color-hover-primary-70 {
+  &:hover {
+    background-color: var( --sfr-color-primary-70 );
+  }
+}
+@mixin background-color-hover-primary-80 {
+  &:hover {
+    background-color: var( --sfr-color-primary-80 );
+  }
+}
+@mixin background-color-hover-primary-90 {
+  &:hover {
+    background-color: var( --sfr-color-primary-90 );
+  }
+}
+@mixin background-color-hover-grey-00 {
+  &:hover {
+    background-color: var( --sfr-color-grey-00 );
+  }
+}
+@mixin background-color-hover-grey-10 {
+  &:hover {
+    background-color: var( --sfr-color-grey-10 );
+  }
+}
+@mixin background-color-hover-grey-20 {
+  &:hover {
+    background-color: var( --sfr-color-grey-20 );
+  }
+}
+@mixin background-color-hover-grey-30 {
+  &:hover {
+    background-color: var( --sfr-color-grey-30 );
+  }
+}
+@mixin background-color-hover-grey-40 {
+  &:hover {
+    background-color: var( --sfr-color-grey-40 );
+  }
+}
+@mixin background-color-hover-grey-50 {
+  &:hover {
+    background-color: var( --sfr-color-grey-50 );
+  }
+}
+@mixin background-color-hover-grey {
+  &:hover {
+    background-color: var( --sfr-color-grey );
+  }
+}
+@mixin background-color-hover-grey-60 {
+  &:hover {
+    background-color: var( --sfr-color-grey-60 );
+  }
+}
+@mixin background-color-hover-grey-70 {
+  &:hover {
+    background-color: var( --sfr-color-grey-70 );
+  }
+}
+@mixin background-color-hover-grey-80 {
+  &:hover {
+    background-color: var( --sfr-color-grey-80 );
+  }
+}
+@mixin background-color-hover-grey-90 {
+  &:hover {
+    background-color: var( --sfr-color-grey-90 );
+  }
+}
+@mixin background-color-hover-grey-100 {
+  &:hover {
+    background-color: var( --sfr-color-grey-100 );
+  }
+}
+@mixin background-color-hover-secondary-10 {
+  &:hover {
+    background-color: var( --sfr-color-secondary-10 );
+  }
+}
+@mixin background-color-hover-secondary-20 {
+  &:hover {
+    background-color: var( --sfr-color-secondary-20 );
+  }
+}
+@mixin background-color-hover-secondary-30 {
+  &:hover {
+    background-color: var( --sfr-color-secondary-30 );
+  }
+}
+@mixin background-color-hover-secondary-40 {
+  &:hover {
+    background-color: var( --sfr-color-secondary-40 );
+  }
+}
+@mixin background-color-hover-secondary-50 {
+  &:hover {
+    background-color: var( --sfr-color-secondary-50 );
+  }
+}
+@mixin background-color-hover-secondary {
+  &:hover {
+    background-color: var( --sfr-color-secondary );
+  }
+}
+@mixin background-color-hover-secondary-60 {
+  &:hover {
+    background-color: var( --sfr-color-secondary-60 );
+  }
+}
+@mixin background-color-hover-secondary-70 {
+  &:hover {
+    background-color: var( --sfr-color-secondary-70 );
+  }
+}
+@mixin background-color-hover-secondary-80 {
+  &:hover {
+    background-color: var( --sfr-color-secondary-80 );
+  }
+}
+@mixin background-color-hover-secondary-90 {
+  &:hover {
+    background-color: var( --sfr-color-secondary-90 );
+  }
+}
+@mixin color-primary-10 {
+  --color: var( --sfr-color-primary-10 );
+  color: var( --color );
+}
+@mixin color-primary-20 {
+  --color: var( --sfr-color-primary-20 );
+  color: var( --color );
+}
+@mixin color-primary-30 {
+  --color: var( --sfr-color-primary-30 );
+  color: var( --color );
+}
+@mixin color-primary-40 {
+  --color: var( --sfr-color-primary-40 );
+  color: var( --color );
+}
+@mixin color-primary-50 {
+  --color: var( --sfr-color-primary-50 );
+  color: var( --color );
+}
+@mixin color-primary {
+  --color: var( --sfr-color-primary );
+  color: var( --color );
+}
+@mixin color-primary-60 {
+  --color: var( --sfr-color-primary-60 );
+  color: var( --color );
+}
+@mixin color-primary-70 {
+  --color: var( --sfr-color-primary-70 );
+  color: var( --color );
+}
+@mixin color-primary-80 {
+  --color: var( --sfr-color-primary-80 );
+  color: var( --color );
+}
+@mixin color-primary-90 {
+  --color: var( --sfr-color-primary-90 );
+  color: var( --color );
+}
+@mixin color-grey-00 {
+  --color: var( --sfr-color-grey-00 );
+  color: var( --color );
+}
+@mixin color-grey-10 {
+  --color: var( --sfr-color-grey-10 );
+  color: var( --color );
+}
+@mixin color-grey-20 {
+  --color: var( --sfr-color-grey-20 );
+  color: var( --color );
+}
+@mixin color-grey-30 {
+  --color: var( --sfr-color-grey-30 );
+  color: var( --color );
+}
+@mixin color-grey-40 {
+  --color: var( --sfr-color-grey-40 );
+  color: var( --color );
+}
+@mixin color-grey-50 {
+  --color: var( --sfr-color-grey-50 );
+  color: var( --color );
+}
+@mixin color-grey {
+  --color: var( --sfr-color-grey );
+  color: var( --color );
+}
+@mixin color-grey-60 {
+  --color: var( --sfr-color-grey-60 );
+  color: var( --color );
+}
+@mixin color-grey-70 {
+  --color: var( --sfr-color-grey-70 );
+  color: var( --color );
+}
+@mixin color-grey-80 {
+  --color: var( --sfr-color-grey-80 );
+  color: var( --color );
+}
+@mixin color-grey-90 {
+  --color: var( --sfr-color-grey-90 );
+  color: var( --color );
+}
+@mixin color-grey-100 {
+  --color: var( --sfr-color-grey-100 );
+  color: var( --color );
+}
+@mixin color-secondary-10 {
+  --color: var( --sfr-color-secondary-10 );
+  color: var( --color );
+}
+@mixin color-secondary-20 {
+  --color: var( --sfr-color-secondary-20 );
+  color: var( --color );
+}
+@mixin color-secondary-30 {
+  --color: var( --sfr-color-secondary-30 );
+  color: var( --color );
+}
+@mixin color-secondary-40 {
+  --color: var( --sfr-color-secondary-40 );
+  color: var( --color );
+}
+@mixin color-secondary-50 {
+  --color: var( --sfr-color-secondary-50 );
+  color: var( --color );
+}
+@mixin color-secondary {
+  --color: var( --sfr-color-secondary );
+  color: var( --color );
+}
+@mixin color-secondary-60 {
+  --color: var( --sfr-color-secondary-60 );
+  color: var( --color );
+}
+@mixin color-secondary-70 {
+  --color: var( --sfr-color-secondary-70 );
+  color: var( --color );
+}
+@mixin color-secondary-80 {
+  --color: var( --sfr-color-secondary-80 );
+  color: var( --color );
+}
+@mixin color-secondary-90 {
+  --color: var( --sfr-color-secondary-90 );
+  color: var( --color );
+}
+@mixin color-hover-primary-10 {
+  &:hover {
+    color: var( --sfr-color-primary-10 );
+  }
+}
+@mixin color-hover-primary-20 {
+  &:hover {
+    color: var( --sfr-color-primary-20 );
+  }
+}
+@mixin color-hover-primary-30 {
+  &:hover {
+    color: var( --sfr-color-primary-30 );
+  }
+}
+@mixin color-hover-primary-40 {
+  &:hover {
+    color: var( --sfr-color-primary-40 );
+  }
+}
+@mixin color-hover-primary-50 {
+  &:hover {
+    color: var( --sfr-color-primary-50 );
+  }
+}
+@mixin color-hover-primary {
+  &:hover {
+    color: var( --sfr-color-primary );
+  }
+}
+@mixin color-hover-primary-60 {
+  &:hover {
+    color: var( --sfr-color-primary-60 );
+  }
+}
+@mixin color-hover-primary-70 {
+  &:hover {
+    color: var( --sfr-color-primary-70 );
+  }
+}
+@mixin color-hover-primary-80 {
+  &:hover {
+    color: var( --sfr-color-primary-80 );
+  }
+}
+@mixin color-hover-primary-90 {
+  &:hover {
+    color: var( --sfr-color-primary-90 );
+  }
+}
+@mixin color-hover-grey-00 {
+  &:hover {
+    color: var( --sfr-color-grey-00 );
+  }
+}
+@mixin color-hover-grey-10 {
+  &:hover {
+    color: var( --sfr-color-grey-10 );
+  }
+}
+@mixin color-hover-grey-20 {
+  &:hover {
+    color: var( --sfr-color-grey-20 );
+  }
+}
+@mixin color-hover-grey-30 {
+  &:hover {
+    color: var( --sfr-color-grey-30 );
+  }
+}
+@mixin color-hover-grey-40 {
+  &:hover {
+    color: var( --sfr-color-grey-40 );
+  }
+}
+@mixin color-hover-grey-50 {
+  &:hover {
+    color: var( --sfr-color-grey-50 );
+  }
+}
+@mixin color-hover-grey {
+  &:hover {
+    color: var( --sfr-color-grey );
+  }
+}
+@mixin color-hover-grey-60 {
+  &:hover {
+    color: var( --sfr-color-grey-60 );
+  }
+}
+@mixin color-hover-grey-70 {
+  &:hover {
+    color: var( --sfr-color-grey-70 );
+  }
+}
+@mixin color-hover-grey-80 {
+  &:hover {
+    color: var( --sfr-color-grey-80 );
+  }
+}
+@mixin color-hover-grey-90 {
+  &:hover {
+    color: var( --sfr-color-grey-90 );
+  }
+}
+@mixin color-hover-grey-100 {
+  &:hover {
+    color: var( --sfr-color-grey-100 );
+  }
+}
+@mixin color-hover-secondary-10 {
+  &:hover {
+    color: var( --sfr-color-secondary-10 );
+  }
+}
+@mixin color-hover-secondary-20 {
+  &:hover {
+    color: var( --sfr-color-secondary-20 );
+  }
+}
+@mixin color-hover-secondary-30 {
+  &:hover {
+    color: var( --sfr-color-secondary-30 );
+  }
+}
+@mixin color-hover-secondary-40 {
+  &:hover {
+    color: var( --sfr-color-secondary-40 );
+  }
+}
+@mixin color-hover-secondary-50 {
+  &:hover {
+    color: var( --sfr-color-secondary-50 );
+  }
+}
+@mixin color-hover-secondary {
+  &:hover {
+    color: var( --sfr-color-secondary );
+  }
+}
+@mixin color-hover-secondary-60 {
+  &:hover {
+    color: var( --sfr-color-secondary-60 );
+  }
+}
+@mixin color-hover-secondary-70 {
+  &:hover {
+    color: var( --sfr-color-secondary-70 );
+  }
+}
+@mixin color-hover-secondary-80 {
+  &:hover {
+    color: var( --sfr-color-secondary-80 );
+  }
+}
+@mixin color-hover-secondary-90 {
+  &:hover {
+    color: var( --sfr-color-secondary-90 );
+  }
+}
+@mixin border-color-primary-10 {
+  border-color: var( --sfr-color-primary-10 );
+}
+@mixin border-color-primary-20 {
+  border-color: var( --sfr-color-primary-20 );
+}
+@mixin border-color-primary-30 {
+  border-color: var( --sfr-color-primary-30 );
+}
+@mixin border-color-primary-40 {
+  border-color: var( --sfr-color-primary-40 );
+}
+@mixin border-color-primary-50 {
+  border-color: var( --sfr-color-primary-50 );
+}
+@mixin border-color-primary {
+  border-color: var( --sfr-color-primary );
+}
+@mixin border-color-primary-60 {
+  border-color: var( --sfr-color-primary-60 );
+}
+@mixin border-color-primary-70 {
+  border-color: var( --sfr-color-primary-70 );
+}
+@mixin border-color-primary-80 {
+  border-color: var( --sfr-color-primary-80 );
+}
+@mixin border-color-primary-90 {
+  border-color: var( --sfr-color-primary-90 );
+}
+@mixin border-color-grey-00 {
+  border-color: var( --sfr-color-grey-00 );
+}
+@mixin border-color-grey-10 {
+  border-color: var( --sfr-color-grey-10 );
+}
+@mixin border-color-grey-20 {
+  border-color: var( --sfr-color-grey-20 );
+}
+@mixin border-color-grey-30 {
+  border-color: var( --sfr-color-grey-30 );
+}
+@mixin border-color-grey-40 {
+  border-color: var( --sfr-color-grey-40 );
+}
+@mixin border-color-grey-50 {
+  border-color: var( --sfr-color-grey-50 );
+}
+@mixin border-color-grey {
+  border-color: var( --sfr-color-grey );
+}
+@mixin border-color-grey-60 {
+  border-color: var( --sfr-color-grey-60 );
+}
+@mixin border-color-grey-70 {
+  border-color: var( --sfr-color-grey-70 );
+}
+@mixin border-color-grey-80 {
+  border-color: var( --sfr-color-grey-80 );
+}
+@mixin border-color-grey-90 {
+  border-color: var( --sfr-color-grey-90 );
+}
+@mixin border-color-grey-100 {
+  border-color: var( --sfr-color-grey-100 );
+}
+@mixin border-color-secondary-10 {
+  border-color: var( --sfr-color-secondary-10 );
+}
+@mixin border-color-secondary-20 {
+  border-color: var( --sfr-color-secondary-20 );
+}
+@mixin border-color-secondary-30 {
+  border-color: var( --sfr-color-secondary-30 );
+}
+@mixin border-color-secondary-40 {
+  border-color: var( --sfr-color-secondary-40 );
+}
+@mixin border-color-secondary-50 {
+  border-color: var( --sfr-color-secondary-50 );
+}
+@mixin border-color-secondary {
+  border-color: var( --sfr-color-secondary );
+}
+@mixin border-color-secondary-60 {
+  border-color: var( --sfr-color-secondary-60 );
+}
+@mixin border-color-secondary-70 {
+  border-color: var( --sfr-color-secondary-70 );
+}
+@mixin border-color-secondary-80 {
+  border-color: var( --sfr-color-secondary-80 );
+}
+@mixin border-color-secondary-90 {
+  border-color: var( --sfr-color-secondary-90 );
+}
+@mixin border-primary-10 {
+  border: 1px solid var( --sfr-color-primary-10 );
+}
+@mixin border-primary-20 {
+  border: 1px solid var( --sfr-color-primary-20 );
+}
+@mixin border-primary-30 {
+  border: 1px solid var( --sfr-color-primary-30 );
+}
+@mixin border-primary-40 {
+  border: 1px solid var( --sfr-color-primary-40 );
+}
+@mixin border-primary-50 {
+  border: 1px solid var( --sfr-color-primary-50 );
+}
+@mixin border-primary {
+  border: 1px solid var( --sfr-color-primary );
+}
+@mixin border-primary-60 {
+  border: 1px solid var( --sfr-color-primary-60 );
+}
+@mixin border-primary-70 {
+  border: 1px solid var( --sfr-color-primary-70 );
+}
+@mixin border-primary-80 {
+  border: 1px solid var( --sfr-color-primary-80 );
+}
+@mixin border-primary-90 {
+  border: 1px solid var( --sfr-color-primary-90 );
+}
+@mixin border-grey-00 {
+  border: 1px solid var( --sfr-color-grey-00 );
+}
+@mixin border-grey-10 {
+  border: 1px solid var( --sfr-color-grey-10 );
+}
+@mixin border-grey-20 {
+  border: 1px solid var( --sfr-color-grey-20 );
+}
+@mixin border-grey-30 {
+  border: 1px solid var( --sfr-color-grey-30 );
+}
+@mixin border-grey-40 {
+  border: 1px solid var( --sfr-color-grey-40 );
+}
+@mixin border-grey-50 {
+  border: 1px solid var( --sfr-color-grey-50 );
+}
+@mixin border-grey {
+  border: 1px solid var( --sfr-color-grey );
+}
+@mixin border-grey-60 {
+  border: 1px solid var( --sfr-color-grey-60 );
+}
+@mixin border-grey-70 {
+  border: 1px solid var( --sfr-color-grey-70 );
+}
+@mixin border-grey-80 {
+  border: 1px solid var( --sfr-color-grey-80 );
+}
+@mixin border-grey-90 {
+  border: 1px solid var( --sfr-color-grey-90 );
+}
+@mixin border-grey-100 {
+  border: 1px solid var( --sfr-color-grey-100 );
+}
+@mixin border-secondary-10 {
+  border: 1px solid var( --sfr-color-secondary-10 );
+}
+@mixin border-secondary-20 {
+  border: 1px solid var( --sfr-color-secondary-20 );
+}
+@mixin border-secondary-30 {
+  border: 1px solid var( --sfr-color-secondary-30 );
+}
+@mixin border-secondary-40 {
+  border: 1px solid var( --sfr-color-secondary-40 );
+}
+@mixin border-secondary-50 {
+  border: 1px solid var( --sfr-color-secondary-50 );
+}
+@mixin border-secondary {
+  border: 1px solid var( --sfr-color-secondary );
+}
+@mixin border-secondary-60 {
+  border: 1px solid var( --sfr-color-secondary-60 );
+}
+@mixin border-secondary-70 {
+  border: 1px solid var( --sfr-color-secondary-70 );
+}
+@mixin border-secondary-80 {
+  border: 1px solid var( --sfr-color-secondary-80 );
+}
+@mixin border-secondary-90 {
+  border: 1px solid var( --sfr-color-secondary-90 );
+}
+@mixin border-top-primary-10 {
+  border-top: 1px solid var( --sfr-color-primary-10 );
+}
+@mixin border-top-primary-20 {
+  border-top: 1px solid var( --sfr-color-primary-20 );
+}
+@mixin border-top-primary-30 {
+  border-top: 1px solid var( --sfr-color-primary-30 );
+}
+@mixin border-top-primary-40 {
+  border-top: 1px solid var( --sfr-color-primary-40 );
+}
+@mixin border-top-primary-50 {
+  border-top: 1px solid var( --sfr-color-primary-50 );
+}
+@mixin border-top-primary {
+  border-top: 1px solid var( --sfr-color-primary );
+}
+@mixin border-top-primary-60 {
+  border-top: 1px solid var( --sfr-color-primary-60 );
+}
+@mixin border-top-primary-70 {
+  border-top: 1px solid var( --sfr-color-primary-70 );
+}
+@mixin border-top-primary-80 {
+  border-top: 1px solid var( --sfr-color-primary-80 );
+}
+@mixin border-top-primary-90 {
+  border-top: 1px solid var( --sfr-color-primary-90 );
+}
+@mixin border-top-grey-00 {
+  border-top: 1px solid var( --sfr-color-grey-00 );
+}
+@mixin border-top-grey-10 {
+  border-top: 1px solid var( --sfr-color-grey-10 );
+}
+@mixin border-top-grey-20 {
+  border-top: 1px solid var( --sfr-color-grey-20 );
+}
+@mixin border-top-grey-30 {
+  border-top: 1px solid var( --sfr-color-grey-30 );
+}
+@mixin border-top-grey-40 {
+  border-top: 1px solid var( --sfr-color-grey-40 );
+}
+@mixin border-top-grey-50 {
+  border-top: 1px solid var( --sfr-color-grey-50 );
+}
+@mixin border-top-grey {
+  border-top: 1px solid var( --sfr-color-grey );
+}
+@mixin border-top-grey-60 {
+  border-top: 1px solid var( --sfr-color-grey-60 );
+}
+@mixin border-top-grey-70 {
+  border-top: 1px solid var( --sfr-color-grey-70 );
+}
+@mixin border-top-grey-80 {
+  border-top: 1px solid var( --sfr-color-grey-80 );
+}
+@mixin border-top-grey-90 {
+  border-top: 1px solid var( --sfr-color-grey-90 );
+}
+@mixin border-top-grey-100 {
+  border-top: 1px solid var( --sfr-color-grey-100 );
+}
+@mixin border-top-secondary-10 {
+  border-top: 1px solid var( --sfr-color-secondary-10 );
+}
+@mixin border-top-secondary-20 {
+  border-top: 1px solid var( --sfr-color-secondary-20 );
+}
+@mixin border-top-secondary-30 {
+  border-top: 1px solid var( --sfr-color-secondary-30 );
+}
+@mixin border-top-secondary-40 {
+  border-top: 1px solid var( --sfr-color-secondary-40 );
+}
+@mixin border-top-secondary-50 {
+  border-top: 1px solid var( --sfr-color-secondary-50 );
+}
+@mixin border-top-secondary {
+  border-top: 1px solid var( --sfr-color-secondary );
+}
+@mixin border-top-secondary-60 {
+  border-top: 1px solid var( --sfr-color-secondary-60 );
+}
+@mixin border-top-secondary-70 {
+  border-top: 1px solid var( --sfr-color-secondary-70 );
+}
+@mixin border-top-secondary-80 {
+  border-top: 1px solid var( --sfr-color-secondary-80 );
+}
+@mixin border-top-secondary-90 {
+  border-top: 1px solid var( --sfr-color-secondary-90 );
+}
+@mixin border-bottom-primary-10 {
+  border-bottom: 1px solid var( --sfr-color-primary-10 );
+}
+@mixin border-bottom-primary-20 {
+  border-bottom: 1px solid var( --sfr-color-primary-20 );
+}
+@mixin border-bottom-primary-30 {
+  border-bottom: 1px solid var( --sfr-color-primary-30 );
+}
+@mixin border-bottom-primary-40 {
+  border-bottom: 1px solid var( --sfr-color-primary-40 );
+}
+@mixin border-bottom-primary-50 {
+  border-bottom: 1px solid var( --sfr-color-primary-50 );
+}
+@mixin border-bottom-primary {
+  border-bottom: 1px solid var( --sfr-color-primary );
+}
+@mixin border-bottom-primary-60 {
+  border-bottom: 1px solid var( --sfr-color-primary-60 );
+}
+@mixin border-bottom-primary-70 {
+  border-bottom: 1px solid var( --sfr-color-primary-70 );
+}
+@mixin border-bottom-primary-80 {
+  border-bottom: 1px solid var( --sfr-color-primary-80 );
+}
+@mixin border-bottom-primary-90 {
+  border-bottom: 1px solid var( --sfr-color-primary-90 );
+}
+@mixin border-bottom-grey-00 {
+  border-bottom: 1px solid var( --sfr-color-grey-00 );
+}
+@mixin border-bottom-grey-10 {
+  border-bottom: 1px solid var( --sfr-color-grey-10 );
+}
+@mixin border-bottom-grey-20 {
+  border-bottom: 1px solid var( --sfr-color-grey-20 );
+}
+@mixin border-bottom-grey-30 {
+  border-bottom: 1px solid var( --sfr-color-grey-30 );
+}
+@mixin border-bottom-grey-40 {
+  border-bottom: 1px solid var( --sfr-color-grey-40 );
+}
+@mixin border-bottom-grey-50 {
+  border-bottom: 1px solid var( --sfr-color-grey-50 );
+}
+@mixin border-bottom-grey {
+  border-bottom: 1px solid var( --sfr-color-grey );
+}
+@mixin border-bottom-grey-60 {
+  border-bottom: 1px solid var( --sfr-color-grey-60 );
+}
+@mixin border-bottom-grey-70 {
+  border-bottom: 1px solid var( --sfr-color-grey-70 );
+}
+@mixin border-bottom-grey-80 {
+  border-bottom: 1px solid var( --sfr-color-grey-80 );
+}
+@mixin border-bottom-grey-90 {
+  border-bottom: 1px solid var( --sfr-color-grey-90 );
+}
+@mixin border-bottom-grey-100 {
+  border-bottom: 1px solid var( --sfr-color-grey-100 );
+}
+@mixin border-bottom-secondary-10 {
+  border-bottom: 1px solid var( --sfr-color-secondary-10 );
+}
+@mixin border-bottom-secondary-20 {
+  border-bottom: 1px solid var( --sfr-color-secondary-20 );
+}
+@mixin border-bottom-secondary-30 {
+  border-bottom: 1px solid var( --sfr-color-secondary-30 );
+}
+@mixin border-bottom-secondary-40 {
+  border-bottom: 1px solid var( --sfr-color-secondary-40 );
+}
+@mixin border-bottom-secondary-50 {
+  border-bottom: 1px solid var( --sfr-color-secondary-50 );
+}
+@mixin border-bottom-secondary {
+  border-bottom: 1px solid var( --sfr-color-secondary );
+}
+@mixin border-bottom-secondary-60 {
+  border-bottom: 1px solid var( --sfr-color-secondary-60 );
+}
+@mixin border-bottom-secondary-70 {
+  border-bottom: 1px solid var( --sfr-color-secondary-70 );
+}
+@mixin border-bottom-secondary-80 {
+  border-bottom: 1px solid var( --sfr-color-secondary-80 );
+}
+@mixin border-bottom-secondary-90 {
+  border-bottom: 1px solid var( --sfr-color-secondary-90 );
+}
+@mixin border-left-primary-10 {
+  border-left: 1px solid var( --sfr-color-primary-10 );
+}
+@mixin border-left-primary-20 {
+  border-left: 1px solid var( --sfr-color-primary-20 );
+}
+@mixin border-left-primary-30 {
+  border-left: 1px solid var( --sfr-color-primary-30 );
+}
+@mixin border-left-primary-40 {
+  border-left: 1px solid var( --sfr-color-primary-40 );
+}
+@mixin border-left-primary-50 {
+  border-left: 1px solid var( --sfr-color-primary-50 );
+}
+@mixin border-left-primary {
+  border-left: 1px solid var( --sfr-color-primary );
+}
+@mixin border-left-primary-60 {
+  border-left: 1px solid var( --sfr-color-primary-60 );
+}
+@mixin border-left-primary-70 {
+  border-left: 1px solid var( --sfr-color-primary-70 );
+}
+@mixin border-left-primary-80 {
+  border-left: 1px solid var( --sfr-color-primary-80 );
+}
+@mixin border-left-primary-90 {
+  border-left: 1px solid var( --sfr-color-primary-90 );
+}
+@mixin border-left-grey-00 {
+  border-left: 1px solid var( --sfr-color-grey-00 );
+}
+@mixin border-left-grey-10 {
+  border-left: 1px solid var( --sfr-color-grey-10 );
+}
+@mixin border-left-grey-20 {
+  border-left: 1px solid var( --sfr-color-grey-20 );
+}
+@mixin border-left-grey-30 {
+  border-left: 1px solid var( --sfr-color-grey-30 );
+}
+@mixin border-left-grey-40 {
+  border-left: 1px solid var( --sfr-color-grey-40 );
+}
+@mixin border-left-grey-50 {
+  border-left: 1px solid var( --sfr-color-grey-50 );
+}
+@mixin border-left-grey {
+  border-left: 1px solid var( --sfr-color-grey );
+}
+@mixin border-left-grey-60 {
+  border-left: 1px solid var( --sfr-color-grey-60 );
+}
+@mixin border-left-grey-70 {
+  border-left: 1px solid var( --sfr-color-grey-70 );
+}
+@mixin border-left-grey-80 {
+  border-left: 1px solid var( --sfr-color-grey-80 );
+}
+@mixin border-left-grey-90 {
+  border-left: 1px solid var( --sfr-color-grey-90 );
+}
+@mixin border-left-grey-100 {
+  border-left: 1px solid var( --sfr-color-grey-100 );
+}
+@mixin border-left-secondary-10 {
+  border-left: 1px solid var( --sfr-color-secondary-10 );
+}
+@mixin border-left-secondary-20 {
+  border-left: 1px solid var( --sfr-color-secondary-20 );
+}
+@mixin border-left-secondary-30 {
+  border-left: 1px solid var( --sfr-color-secondary-30 );
+}
+@mixin border-left-secondary-40 {
+  border-left: 1px solid var( --sfr-color-secondary-40 );
+}
+@mixin border-left-secondary-50 {
+  border-left: 1px solid var( --sfr-color-secondary-50 );
+}
+@mixin border-left-secondary {
+  border-left: 1px solid var( --sfr-color-secondary );
+}
+@mixin border-left-secondary-60 {
+  border-left: 1px solid var( --sfr-color-secondary-60 );
+}
+@mixin border-left-secondary-70 {
+  border-left: 1px solid var( --sfr-color-secondary-70 );
+}
+@mixin border-left-secondary-80 {
+  border-left: 1px solid var( --sfr-color-secondary-80 );
+}
+@mixin border-left-secondary-90 {
+  border-left: 1px solid var( --sfr-color-secondary-90 );
+}
+@mixin border-right-primary-10 {
+  border-right: 1px solid var( --sfr-color-primary-10 );
+}
+@mixin border-right-primary-20 {
+  border-right: 1px solid var( --sfr-color-primary-20 );
+}
+@mixin border-right-primary-30 {
+  border-right: 1px solid var( --sfr-color-primary-30 );
+}
+@mixin border-right-primary-40 {
+  border-right: 1px solid var( --sfr-color-primary-40 );
+}
+@mixin border-right-primary-50 {
+  border-right: 1px solid var( --sfr-color-primary-50 );
+}
+@mixin border-right-primary {
+  border-right: 1px solid var( --sfr-color-primary );
+}
+@mixin border-right-primary-60 {
+  border-right: 1px solid var( --sfr-color-primary-60 );
+}
+@mixin border-right-primary-70 {
+  border-right: 1px solid var( --sfr-color-primary-70 );
+}
+@mixin border-right-primary-80 {
+  border-right: 1px solid var( --sfr-color-primary-80 );
+}
+@mixin border-right-primary-90 {
+  border-right: 1px solid var( --sfr-color-primary-90 );
+}
+@mixin border-right-grey-00 {
+  border-right: 1px solid var( --sfr-color-grey-00 );
+}
+@mixin border-right-grey-10 {
+  border-right: 1px solid var( --sfr-color-grey-10 );
+}
+@mixin border-right-grey-20 {
+  border-right: 1px solid var( --sfr-color-grey-20 );
+}
+@mixin border-right-grey-30 {
+  border-right: 1px solid var( --sfr-color-grey-30 );
+}
+@mixin border-right-grey-40 {
+  border-right: 1px solid var( --sfr-color-grey-40 );
+}
+@mixin border-right-grey-50 {
+  border-right: 1px solid var( --sfr-color-grey-50 );
+}
+@mixin border-right-grey {
+  border-right: 1px solid var( --sfr-color-grey );
+}
+@mixin border-right-grey-60 {
+  border-right: 1px solid var( --sfr-color-grey-60 );
+}
+@mixin border-right-grey-70 {
+  border-right: 1px solid var( --sfr-color-grey-70 );
+}
+@mixin border-right-grey-80 {
+  border-right: 1px solid var( --sfr-color-grey-80 );
+}
+@mixin border-right-grey-90 {
+  border-right: 1px solid var( --sfr-color-grey-90 );
+}
+@mixin border-right-grey-100 {
+  border-right: 1px solid var( --sfr-color-grey-100 );
+}
+@mixin border-right-secondary-10 {
+  border-right: 1px solid var( --sfr-color-secondary-10 );
+}
+@mixin border-right-secondary-20 {
+  border-right: 1px solid var( --sfr-color-secondary-20 );
+}
+@mixin border-right-secondary-30 {
+  border-right: 1px solid var( --sfr-color-secondary-30 );
+}
+@mixin border-right-secondary-40 {
+  border-right: 1px solid var( --sfr-color-secondary-40 );
+}
+@mixin border-right-secondary-50 {
+  border-right: 1px solid var( --sfr-color-secondary-50 );
+}
+@mixin border-right-secondary {
+  border-right: 1px solid var( --sfr-color-secondary );
+}
+@mixin border-right-secondary-60 {
+  border-right: 1px solid var( --sfr-color-secondary-60 );
+}
+@mixin border-right-secondary-70 {
+  border-right: 1px solid var( --sfr-color-secondary-70 );
+}
+@mixin border-right-secondary-80 {
+  border-right: 1px solid var( --sfr-color-secondary-80 );
+}
+@mixin border-right-secondary-90 {
+  border-right: 1px solid var( --sfr-color-secondary-90 );
+}
