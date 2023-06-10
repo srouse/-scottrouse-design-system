@@ -216,7 +216,11 @@ export type SFRSpacingValue =
   'spacing-colvw-11' |
   'spacing-colvw-12';
 
+export type SFREffectValue =
+  'effect-shadow-shadow';
+
 export type SFRValue =
   SFRColorValue |
   SFRTypeValue |
-  SFRSpacingValue;
+  SFRSpacingValue |
+  SFREffectValue;
