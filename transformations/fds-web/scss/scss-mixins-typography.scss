@@ -1,0 +1,297 @@
+@mixin font-text-100 {
+  font: var( --sfr-type-text-100 );
+}
+@mixin font-text-100-size {
+  font: var( --sfr-type-text-100-size );
+}
+@mixin font-text-100-weight {
+  font: var( --sfr-type-text-100-weight );
+}
+@mixin font-text-90 {
+  font: var( --sfr-type-text-90 );
+}
+@mixin font-text-90-size {
+  font: var( --sfr-type-text-90-size );
+}
+@mixin font-text-90-weight {
+  font: var( --sfr-type-text-90-weight );
+}
+@mixin font-text-80 {
+  font: var( --sfr-type-text-80 );
+}
+@mixin font-text-80-size {
+  font: var( --sfr-type-text-80-size );
+}
+@mixin font-text-80-weight {
+  font: var( --sfr-type-text-80-weight );
+}
+@mixin font-text-70 {
+  font: var( --sfr-type-text-70 );
+}
+@mixin font-text-70-size {
+  font: var( --sfr-type-text-70-size );
+}
+@mixin font-text-70-weight {
+  font: var( --sfr-type-text-70-weight );
+}
+@mixin font-text-60 {
+  font: var( --sfr-type-text-60 );
+}
+@mixin font-text-60-size {
+  font: var( --sfr-type-text-60-size );
+}
+@mixin font-text-60-weight {
+  font: var( --sfr-type-text-60-weight );
+}
+@mixin font-text-50 {
+  font: var( --sfr-type-text-50 );
+}
+@mixin font-text-50-size {
+  font: var( --sfr-type-text-50-size );
+}
+@mixin font-text-50-weight {
+  font: var( --sfr-type-text-50-weight );
+}
+@mixin font-text {
+  font: var( --sfr-type-text );
+}
+@mixin font-text-size {
+  font: var( --sfr-type-text-size );
+}
+@mixin font-text-weight {
+  font: var( --sfr-type-text-weight );
+}
+@mixin font-text-40 {
+  font: var( --sfr-type-text-40 );
+}
+@mixin font-text-40-size {
+  font: var( --sfr-type-text-40-size );
+}
+@mixin font-text-40-weight {
+  font: var( --sfr-type-text-40-weight );
+}
+@mixin font-text-30 {
+  font: var( --sfr-type-text-30 );
+}
+@mixin font-text-30-size {
+  font: var( --sfr-type-text-30-size );
+}
+@mixin font-text-30-weight {
+  font: var( --sfr-type-text-30-weight );
+}
+@mixin font-text-20 {
+  font: var( --sfr-type-text-20 );
+}
+@mixin font-text-20-size {
+  font: var( --sfr-type-text-20-size );
+}
+@mixin font-text-20-weight {
+  font: var( --sfr-type-text-20-weight );
+}
+@mixin font-text-10 {
+  font: var( --sfr-type-text-10 );
+}
+@mixin font-text-10-size {
+  font: var( --sfr-type-text-10-size );
+}
+@mixin font-text-10-weight {
+  font: var( --sfr-type-text-10-weight );
+}
+@mixin font-text-bold-100 {
+  font: var( --sfr-type-text-bold-100 );
+}
+@mixin font-text-bold-100-size {
+  font: var( --sfr-type-text-bold-100-size );
+}
+@mixin font-text-bold-100-weight {
+  font: var( --sfr-type-text-bold-100-weight );
+}
+@mixin font-text-bold-90 {
+  font: var( --sfr-type-text-bold-90 );
+}
+@mixin font-text-bold-90-size {
+  font: var( --sfr-type-text-bold-90-size );
+}
+@mixin font-text-bold-90-weight {
+  font: var( --sfr-type-text-bold-90-weight );
+}
+@mixin font-text-bold-80 {
+  font: var( --sfr-type-text-bold-80 );
+}
+@mixin font-text-bold-80-size {
+  font: var( --sfr-type-text-bold-80-size );
+}
+@mixin font-text-bold-80-weight {
+  font: var( --sfr-type-text-bold-80-weight );
+}
+@mixin font-text-bold-70 {
+  font: var( --sfr-type-text-bold-70 );
+}
+@mixin font-text-bold-70-size {
+  font: var( --sfr-type-text-bold-70-size );
+}
+@mixin font-text-bold-70-weight {
+  font: var( --sfr-type-text-bold-70-weight );
+}
+@mixin font-text-bold-60 {
+  font: var( --sfr-type-text-bold-60 );
+}
+@mixin font-text-bold-60-size {
+  font: var( --sfr-type-text-bold-60-size );
+}
+@mixin font-text-bold-60-weight {
+  font: var( --sfr-type-text-bold-60-weight );
+}
+@mixin font-text-bold-50 {
+  font: var( --sfr-type-text-bold-50 );
+}
+@mixin font-text-bold-50-size {
+  font: var( --sfr-type-text-bold-50-size );
+}
+@mixin font-text-bold-50-weight {
+  font: var( --sfr-type-text-bold-50-weight );
+}
+@mixin font-text-bold {
+  font: var( --sfr-type-text-bold );
+}
+@mixin font-text-bold-size {
+  font: var( --sfr-type-text-bold-size );
+}
+@mixin font-text-bold-weight {
+  font: var( --sfr-type-text-bold-weight );
+}
+@mixin font-text-bold-40 {
+  font: var( --sfr-type-text-bold-40 );
+}
+@mixin font-text-bold-40-size {
+  font: var( --sfr-type-text-bold-40-size );
+}
+@mixin font-text-bold-40-weight {
+  font: var( --sfr-type-text-bold-40-weight );
+}
+@mixin font-text-bold-30 {
+  font: var( --sfr-type-text-bold-30 );
+}
+@mixin font-text-bold-30-size {
+  font: var( --sfr-type-text-bold-30-size );
+}
+@mixin font-text-bold-30-weight {
+  font: var( --sfr-type-text-bold-30-weight );
+}
+@mixin font-text-bold-20 {
+  font: var( --sfr-type-text-bold-20 );
+}
+@mixin font-text-bold-20-size {
+  font: var( --sfr-type-text-bold-20-size );
+}
+@mixin font-text-bold-20-weight {
+  font: var( --sfr-type-text-bold-20-weight );
+}
+@mixin font-text-bold-10 {
+  font: var( --sfr-type-text-bold-10 );
+}
+@mixin font-text-bold-10-size {
+  font: var( --sfr-type-text-bold-10-size );
+}
+@mixin font-text-bold-10-weight {
+  font: var( --sfr-type-text-bold-10-weight );
+}
+@mixin font-text-semibold-100 {
+  font: var( --sfr-type-text-semibold-100 );
+}
+@mixin font-text-semibold-100-size {
+  font: var( --sfr-type-text-semibold-100-size );
+}
+@mixin font-text-semibold-100-weight {
+  font: var( --sfr-type-text-semibold-100-weight );
+}
+@mixin font-text-semibold-90 {
+  font: var( --sfr-type-text-semibold-90 );
+}
+@mixin font-text-semibold-90-size {
+  font: var( --sfr-type-text-semibold-90-size );
+}
+@mixin font-text-semibold-90-weight {
+  font: var( --sfr-type-text-semibold-90-weight );
+}
+@mixin font-text-semibold-80 {
+  font: var( --sfr-type-text-semibold-80 );
+}
+@mixin font-text-semibold-80-size {
+  font: var( --sfr-type-text-semibold-80-size );
+}
+@mixin font-text-semibold-80-weight {
+  font: var( --sfr-type-text-semibold-80-weight );
+}
+@mixin font-text-semibold-70 {
+  font: var( --sfr-type-text-semibold-70 );
+}
+@mixin font-text-semibold-70-size {
+  font: var( --sfr-type-text-semibold-70-size );
+}
+@mixin font-text-semibold-70-weight {
+  font: var( --sfr-type-text-semibold-70-weight );
+}
+@mixin font-text-semibold-60 {
+  font: var( --sfr-type-text-semibold-60 );
+}
+@mixin font-text-semibold-60-size {
+  font: var( --sfr-type-text-semibold-60-size );
+}
+@mixin font-text-semibold-60-weight {
+  font: var( --sfr-type-text-semibold-60-weight );
+}
+@mixin font-text-semibold-50 {
+  font: var( --sfr-type-text-semibold-50 );
+}
+@mixin font-text-semibold-50-size {
+  font: var( --sfr-type-text-semibold-50-size );
+}
+@mixin font-text-semibold-50-weight {
+  font: var( --sfr-type-text-semibold-50-weight );
+}
+@mixin font-text-semibold {
+  font: var( --sfr-type-text-semibold );
+}
+@mixin font-text-semibold-size {
+  font: var( --sfr-type-text-semibold-size );
+}
+@mixin font-text-semibold-weight {
+  font: var( --sfr-type-text-semibold-weight );
+}
+@mixin font-text-semibold-40 {
+  font: var( --sfr-type-text-semibold-40 );
+}
+@mixin font-text-semibold-40-size {
+  font: var( --sfr-type-text-semibold-40-size );
+}
+@mixin font-text-semibold-40-weight {
+  font: var( --sfr-type-text-semibold-40-weight );
+}
+@mixin font-text-semibold-30 {
+  font: var( --sfr-type-text-semibold-30 );
+}
+@mixin font-text-semibold-30-size {
+  font: var( --sfr-type-text-semibold-30-size );
+}
+@mixin font-text-semibold-30-weight {
+  font: var( --sfr-type-text-semibold-30-weight );
+}
+@mixin font-text-semibold-20 {
+  font: var( --sfr-type-text-semibold-20 );
+}
+@mixin font-text-semibold-20-size {
+  font: var( --sfr-type-text-semibold-20-size );
+}
+@mixin font-text-semibold-20-weight {
+  font: var( --sfr-type-text-semibold-20-weight );
+}
+@mixin font-text-semibold-10 {
+  font: var( --sfr-type-text-semibold-10 );
+}
+@mixin font-text-semibold-10-size {
+  font: var( --sfr-type-text-semibold-10-size );
+}
+@mixin font-text-semibold-10-weight {
+  font: var( --sfr-type-text-semibold-10-weight );
+}
