@@ -145,6 +145,7 @@ export default {
   "sfrSpacing6": "60px",
   "sfrSpacing7": "70px",
   "sfrSpacing8": "80px",
+  "sfrEffectShadowShadow": "0px 0px 10px 0px rgba(0, 0, 0, 0.15)",
   "sfrSpacingCol0": "0%",
   "sfrSpacingCol03": "2.7775%",
   "sfrSpacingCol04": "2.0833%",
