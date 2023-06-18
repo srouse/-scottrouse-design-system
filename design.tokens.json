@@ -484,10 +484,10 @@
             "fontStyle": "normal",
             "figmaFontObj": {
               "family": "Source Sans Pro",
-              "style": "Regular"
+              "style": "Light"
             },
-            "fontWeight": 400,
-            "fontSize": 29,
+            "fontWeight": 300,
+            "fontSize": 30,
             "letterSpacing": {
               "unit": "PERCENT",
               "value": 0
@@ -515,9 +515,9 @@
             "fontStyle": "normal",
             "figmaFontObj": {
               "family": "Source Sans Pro",
-              "style": "Regular"
+              "style": "Light"
             },
-            "fontWeight": 400,
+            "fontWeight": 300,
             "fontSize": 24,
             "letterSpacing": {
               "unit": "PERCENT",
@@ -546,9 +546,9 @@
             "fontStyle": "normal",
             "figmaFontObj": {
               "family": "Source Sans Pro",
-              "style": "Regular"
+              "style": "Light"
             },
-            "fontWeight": 400,
+            "fontWeight": 300,
             "fontSize": 21,
             "letterSpacing": {
               "unit": "PERCENT",
@@ -577,9 +577,9 @@
             "fontStyle": "normal",
             "figmaFontObj": {
               "family": "Source Sans Pro",
-              "style": "Regular"
+              "style": "Light"
             },
-            "fontWeight": 400,
+            "fontWeight": 300,
             "fontSize": 19,
             "letterSpacing": {
               "unit": "PERCENT",
@@ -608,9 +608,9 @@
             "fontStyle": "normal",
             "figmaFontObj": {
               "family": "Source Sans Pro",
-              "style": "Regular"
+              "style": "Light"
             },
-            "fontWeight": 400,
+            "fontWeight": 300,
             "fontSize": 17,
             "letterSpacing": {
               "unit": "PERCENT",
@@ -639,9 +639,9 @@
             "fontStyle": "normal",
             "figmaFontObj": {
               "family": "Source Sans Pro",
-              "style": "Regular"
+              "style": "Light"
             },
-            "fontWeight": 400,
+            "fontWeight": 300,
             "fontSize": 16,
             "letterSpacing": {
               "unit": "PERCENT",
@@ -670,9 +670,9 @@
             "fontStyle": "normal",
             "figmaFontObj": {
               "family": "Source Sans Pro",
-              "style": "Regular"
+              "style": "Light"
             },
-            "fontWeight": 400,
+            "fontWeight": 300,
             "fontSize": 16,
             "letterSpacing": {
               "unit": "PERCENT",
@@ -701,9 +701,9 @@
             "fontStyle": "normal",
             "figmaFontObj": {
               "family": "Source Sans Pro",
-              "style": "Regular"
+              "style": "Light"
             },
-            "fontWeight": 400,
+            "fontWeight": 300,
             "fontSize": 15,
             "letterSpacing": {
               "unit": "PERCENT",
@@ -732,9 +732,9 @@
             "fontStyle": "normal",
             "figmaFontObj": {
               "family": "Source Sans Pro",
-              "style": "Regular"
+              "style": "Light"
             },
-            "fontWeight": 400,
+            "fontWeight": 300,
             "fontSize": 14,
             "letterSpacing": {
               "unit": "PERCENT",
@@ -763,9 +763,9 @@
             "fontStyle": "normal",
             "figmaFontObj": {
               "family": "Source Sans Pro",
-              "style": "Regular"
+              "style": "Light"
             },
-            "fontWeight": 400,
+            "fontWeight": 300,
             "fontSize": 12,
             "letterSpacing": {
               "unit": "PERCENT",
@@ -794,9 +794,9 @@
             "fontStyle": "normal",
             "figmaFontObj": {
               "family": "Source Sans Pro",
-              "style": "Regular"
+              "style": "Light"
             },
-            "fontWeight": 400,
+            "fontWeight": 300,
             "fontSize": 11,
             "letterSpacing": {
               "unit": "PERCENT",
@@ -837,7 +837,7 @@
               "style": "Bold"
             },
             "fontWeight": 700,
-            "fontSize": 29,
+            "fontSize": 30,
             "letterSpacing": {
               "unit": "PERCENT",
               "value": 0
@@ -1187,7 +1187,7 @@
               "style": "SemiBold"
             },
             "fontWeight": 600,
-            "fontSize": 29,
+            "fontSize": 30,
             "letterSpacing": {
               "unit": "PERCENT",
               "value": 0
