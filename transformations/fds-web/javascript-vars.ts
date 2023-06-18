@@ -147,6 +147,7 @@ export default {
   "sfrSpacing8": "80px",
   "sfrEffectShadowShadow": "0px 0px 10px 0px rgba(0, 0, 0, 0.15)",
   "sfrEffectFocusShadow": "0px 0px 0px 2px #db692c",
+  "sfrEffectValidShadow": "0px 0px 0px 2px #2f8eed",
   "sfrSpacingCol0": "0%",
   "sfrSpacingCol03": "2.7775%",
   "sfrSpacingCol04": "2.0833%",
