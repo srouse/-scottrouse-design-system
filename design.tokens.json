@@ -1714,6 +1714,24 @@
             "spread": 0
           },
           "$type": "shadow"
+        },
+        "focus": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "focus",
+            "dsys.index": 1,
+            "dsys.styleId": "S:e410af65ee27b8d3b8c87feeb303fa92cb3bffd5,"
+          },
+          "$value": {
+            "color": "#db692c",
+            "alpha": 0.15000000596046448,
+            "blur": 0,
+            "offsetX": 0,
+            "offsetY": 0,
+            "radius": 0,
+            "spread": 2
+          },
+          "$type": "shadow"
         }
       }
     }
