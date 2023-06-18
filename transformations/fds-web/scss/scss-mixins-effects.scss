@@ -1,6 +1,12 @@
 @mixin shadow-shadow-shadow {
   box-shadow: var( --sfr-effect-shadow-shadow )
 }
+@mixin shadow-focus-shadow {
+  box-shadow: var( --sfr-effect-focus-shadow )
+}
 @mixin blur-shadow-shadow {
   filter: blur(var( --sfr-effect-shadow-shadow ))
+}
+@mixin blur-focus-shadow {
+  filter: blur(var( --sfr-effect-focus-shadow ))
 }
