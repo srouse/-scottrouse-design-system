@@ -147,6 +147,7 @@
   --sfr-spacing-8: 80px;
   --sfr-effect-shadow-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.15);
   --sfr-effect-focus-shadow: 0px 0px 0px 2px #db692c;
+  --sfr-effect-valid-shadow: 0px 0px 0px 2px #2f8eed;
   --sfr-spacing-col-0: 0%;
   --sfr-spacing-col-0-3: 2.7775%;
   --sfr-spacing-col-0-4: 2.0833%;
