@@ -1,6 +1,6 @@
 {
   "name": "@srouse/-scottrouse-design-system",
-  "version": "v0.0.3",
+  "version": "v0.0.4",
   "main": "index.js",
   "repository": "git@github.com:srouse/-scottrouse-design-system.git",
   "dependencies": {
