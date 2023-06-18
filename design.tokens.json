@@ -1724,7 +1724,7 @@
           },
           "$value": {
             "color": "#db692c",
-            "alpha": 0.15000000596046448,
+            "alpha": 1,
             "blur": 0,
             "offsetX": 0,
             "offsetY": 0,
