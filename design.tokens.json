@@ -1732,6 +1732,24 @@
             "spread": 2
           },
           "$type": "shadow"
+        },
+        "valid": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "valid",
+            "dsys.index": 2,
+            "dsys.styleId": "S:a37ce3b921fe62b76e23c9a8b485f5d7702bbdce,"
+          },
+          "$value": {
+            "color": "#2f8eed",
+            "alpha": 1,
+            "blur": 0,
+            "offsetX": 0,
+            "offsetY": 0,
+            "radius": 0,
+            "spread": 2
+          },
+          "$type": "shadow"
         }
       }
     }
