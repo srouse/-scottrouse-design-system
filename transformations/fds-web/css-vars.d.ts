@@ -218,7 +218,8 @@ export type SFRSpacingValue =
 
 export type SFREffectValue =
   'effect-shadow-shadow' |
-  'effect-focus-shadow';
+  'effect-focus-shadow' |
+  'effect-valid-shadow';
 
 export type SFRValue =
   SFRColorValue |
