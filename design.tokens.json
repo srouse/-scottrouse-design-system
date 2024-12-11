@@ -741,7 +741,8 @@
               "value": 0
             },
             "lineHeight": {
-              "unit": "AUTO"
+              "unit": "PIXELS",
+              "value": 23
             },
             "listSpacing": 0,
             "paragraphIndent": 0,
