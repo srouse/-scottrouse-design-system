@@ -55,7 +55,7 @@ export default {
   "sfrTypeText40": "400 1em/1.2em 'Source Sans Pro'",
   "sfrTypeText40Size": 16,
   "sfrTypeText40Weight": 400,
-  "sfrTypeText30": "400 0.875em/1.05em 'Source Sans Pro'",
+  "sfrTypeText30": "400 0.875em/1.438em 'Source Sans Pro'",
   "sfrTypeText30Size": 14,
   "sfrTypeText30Weight": 400,
   "sfrTypeText20": "400 0.75em/0.9em 'Source Sans Pro'",
