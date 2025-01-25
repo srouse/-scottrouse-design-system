@@ -97,6 +97,15 @@
 @mixin font-text-10-weight {
   font: var( --sfr-type-text-10-weight );
 }
+@mixin font-text-bold-110 {
+  font: var( --sfr-type-text-bold-110 );
+}
+@mixin font-text-bold-110-size {
+  font: var( --sfr-type-text-bold-110-size );
+}
+@mixin font-text-bold-110-weight {
+  font: var( --sfr-type-text-bold-110-weight );
+}
 @mixin font-text-bold-100 {
   font: var( --sfr-type-text-bold-100 );
 }
