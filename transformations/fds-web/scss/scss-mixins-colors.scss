@@ -82,6 +82,14 @@
   --background-color: var( --sfr-color-grey-90 );
   background-color: var( --background-color );
 }
+@mixin background-color-grey-95 {
+  --background-color: var( --sfr-color-grey-95 );
+  background-color: var( --background-color );
+}
+@mixin background-color-grey-98 {
+  --background-color: var( --sfr-color-grey-98 );
+  background-color: var( --background-color );
+}
 @mixin background-color-grey-100 {
   --background-color: var( --sfr-color-grey-100 );
   background-color: var( --background-color );
@@ -231,6 +239,16 @@
     background-color: var( --sfr-color-grey-90 );
   }
 }
+@mixin background-color-hover-grey-95 {
+  &:hover {
+    background-color: var( --sfr-color-grey-95 );
+  }
+}
+@mixin background-color-hover-grey-98 {
+  &:hover {
+    background-color: var( --sfr-color-grey-98 );
+  }
+}
 @mixin background-color-hover-grey-100 {
   &:hover {
     background-color: var( --sfr-color-grey-100 );
@@ -368,6 +386,14 @@
 }
 @mixin color-grey-90 {
   --color: var( --sfr-color-grey-90 );
+  color: var( --color );
+}
+@mixin color-grey-95 {
+  --color: var( --sfr-color-grey-95 );
+  color: var( --color );
+}
+@mixin color-grey-98 {
+  --color: var( --sfr-color-grey-98 );
   color: var( --color );
 }
 @mixin color-grey-100 {
@@ -519,6 +545,16 @@
     color: var( --sfr-color-grey-90 );
   }
 }
+@mixin color-hover-grey-95 {
+  &:hover {
+    color: var( --sfr-color-grey-95 );
+  }
+}
+@mixin color-hover-grey-98 {
+  &:hover {
+    color: var( --sfr-color-grey-98 );
+  }
+}
 @mixin color-hover-grey-100 {
   &:hover {
     color: var( --sfr-color-grey-100 );
@@ -637,6 +673,12 @@
 @mixin border-color-grey-90 {
   border-color: var( --sfr-color-grey-90 );
 }
+@mixin border-color-grey-95 {
+  border-color: var( --sfr-color-grey-95 );
+}
+@mixin border-color-grey-98 {
+  border-color: var( --sfr-color-grey-98 );
+}
 @mixin border-color-grey-100 {
   border-color: var( --sfr-color-grey-100 );
 }
@@ -732,6 +774,12 @@
 }
 @mixin border-grey-90 {
   border: 1px solid var( --sfr-color-grey-90 );
+}
+@mixin border-grey-95 {
+  border: 1px solid var( --sfr-color-grey-95 );
+}
+@mixin border-grey-98 {
+  border: 1px solid var( --sfr-color-grey-98 );
 }
 @mixin border-grey-100 {
   border: 1px solid var( --sfr-color-grey-100 );
@@ -829,6 +877,12 @@
 @mixin border-top-grey-90 {
   border-top: 1px solid var( --sfr-color-grey-90 );
 }
+@mixin border-top-grey-95 {
+  border-top: 1px solid var( --sfr-color-grey-95 );
+}
+@mixin border-top-grey-98 {
+  border-top: 1px solid var( --sfr-color-grey-98 );
+}
 @mixin border-top-grey-100 {
   border-top: 1px solid var( --sfr-color-grey-100 );
 }
@@ -924,6 +978,12 @@
 }
 @mixin border-bottom-grey-90 {
   border-bottom: 1px solid var( --sfr-color-grey-90 );
+}
+@mixin border-bottom-grey-95 {
+  border-bottom: 1px solid var( --sfr-color-grey-95 );
+}
+@mixin border-bottom-grey-98 {
+  border-bottom: 1px solid var( --sfr-color-grey-98 );
 }
 @mixin border-bottom-grey-100 {
   border-bottom: 1px solid var( --sfr-color-grey-100 );
@@ -1021,6 +1081,12 @@
 @mixin border-left-grey-90 {
   border-left: 1px solid var( --sfr-color-grey-90 );
 }
+@mixin border-left-grey-95 {
+  border-left: 1px solid var( --sfr-color-grey-95 );
+}
+@mixin border-left-grey-98 {
+  border-left: 1px solid var( --sfr-color-grey-98 );
+}
 @mixin border-left-grey-100 {
   border-left: 1px solid var( --sfr-color-grey-100 );
 }
@@ -1116,6 +1182,12 @@
 }
 @mixin border-right-grey-90 {
   border-right: 1px solid var( --sfr-color-grey-90 );
+}
+@mixin border-right-grey-95 {
+  border-right: 1px solid var( --sfr-color-grey-95 );
+}
+@mixin border-right-grey-98 {
+  border-right: 1px solid var( --sfr-color-grey-98 );
 }
 @mixin border-right-grey-100 {
   border-right: 1px solid var( --sfr-color-grey-100 );
