@@ -849,11 +849,42 @@
           "dsys.nodeId": "1:2566"
         },
         "$description": "text-bold typography tokens",
+        "text-bold-110": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-bold-110",
+            "dsys.index": 0,
+            "dsys.styleId": "S:b4eee08964f7f45f72f17f2a20d26186bcc4d370,"
+          },
+          "$value": {
+            "fontFamily": "Source Sans Pro",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Source Sans Pro",
+              "style": "Bold"
+            },
+            "fontWeight": 700,
+            "fontSize": 48,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
         "text-bold-100": {
           "$extensions": {
             "dsys.level": "token",
             "dsys.name": "text-bold-100",
-            "dsys.index": 0,
+            "dsys.index": 1,
             "dsys.styleId": "S:ab966ccce8d492ea492700528494555ea6fa8398,"
           },
           "$value": {
@@ -884,7 +915,7 @@
           "$extensions": {
             "dsys.level": "token",
             "dsys.name": "text-bold-90",
-            "dsys.index": 1,
+            "dsys.index": 2,
             "dsys.styleId": "S:df08e5cc56378539743135a238552adb6adc3269,"
           },
           "$value": {
@@ -915,7 +946,7 @@
           "$extensions": {
             "dsys.level": "token",
             "dsys.name": "text-bold-80",
-            "dsys.index": 2,
+            "dsys.index": 3,
             "dsys.styleId": "S:3734a1ef63c1a17c57e50d3d0a7d4c807ae287b4,"
           },
           "$value": {
@@ -946,7 +977,7 @@
           "$extensions": {
             "dsys.level": "token",
             "dsys.name": "text-bold-70",
-            "dsys.index": 3,
+            "dsys.index": 4,
             "dsys.styleId": "S:b2c54a7c0b637c693cf4ab2c5ecb7e11cea97dac,"
           },
           "$value": {
@@ -977,7 +1008,7 @@
           "$extensions": {
             "dsys.level": "token",
             "dsys.name": "text-bold-60",
-            "dsys.index": 4,
+            "dsys.index": 5,
             "dsys.styleId": "S:ddd7c66650687b73c80d40751efa0d889a445f38,"
           },
           "$value": {
@@ -1008,7 +1039,7 @@
           "$extensions": {
             "dsys.level": "token",
             "dsys.name": "text-bold-50",
-            "dsys.index": 5,
+            "dsys.index": 6,
             "dsys.styleId": "S:450ca3243bed2513ed62658b630ba3c68cdc5fdb,"
           },
           "$value": {
@@ -1039,7 +1070,7 @@
           "$extensions": {
             "dsys.level": "token",
             "dsys.name": "text-bold",
-            "dsys.index": 6,
+            "dsys.index": 7,
             "dsys.styleId": "S:4e19a13bf37ad2c51b6fc5394dc0a5fc083399c5,"
           },
           "$value": {
@@ -1070,7 +1101,7 @@
           "$extensions": {
             "dsys.level": "token",
             "dsys.name": "text-bold-40",
-            "dsys.index": 7,
+            "dsys.index": 8,
             "dsys.styleId": "S:5300e7c49b609e706975f0c266fb21b870e2beb4,"
           },
           "$value": {
@@ -1101,7 +1132,7 @@
           "$extensions": {
             "dsys.level": "token",
             "dsys.name": "text-bold-30",
-            "dsys.index": 8,
+            "dsys.index": 9,
             "dsys.styleId": "S:85bca42e4ffb29f4107a1aba7008bb503a63526b,"
           },
           "$value": {
@@ -1132,7 +1163,7 @@
           "$extensions": {
             "dsys.level": "token",
             "dsys.name": "text-bold-20",
-            "dsys.index": 9,
+            "dsys.index": 10,
             "dsys.styleId": "S:26f4071f52b10f59fee97665b6910f9c660144ab,"
           },
           "$value": {
@@ -1163,7 +1194,7 @@
           "$extensions": {
             "dsys.level": "token",
             "dsys.name": "text-bold-10",
-            "dsys.index": 10,
+            "dsys.index": 11,
             "dsys.styleId": "S:a491f179f4386bbd019d3526afb1444a1cc2c5b5,"
           },
           "$value": {
