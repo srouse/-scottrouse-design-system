@@ -66,7 +66,7 @@ export default {
   "sfrTypeText10": "400 0.688em/0.825em 'Source Sans Pro'",
   "sfrTypeText10Size": 11,
   "sfrTypeText10Weight": 400,
-  "sfrTypeTextBold110": "700 3em/3.6em 'Source Sans Pro'",
+  "sfrTypeTextBold110": "700 3em/3.75em 'Source Sans Pro'",
   "sfrTypeTextBold110Size": 48,
   "sfrTypeTextBold110Weight": 700,
   "sfrTypeTextBold100": "700 1.875em/2.25em 'Source Sans Pro'",
