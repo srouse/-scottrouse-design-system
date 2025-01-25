@@ -68,6 +68,9 @@ export type SFRTypeValue =
   'type-text-10' |
   'type-text-10-size' |
   'type-text-10-weight' |
+  'type-text-bold-110' |
+  'type-text-bold-110-size' |
+  'type-text-bold-110-weight' |
   'type-text-bold-100' |
   'type-text-bold-100-size' |
   'type-text-bold-100-weight' |
