@@ -20,6 +20,8 @@ export default {
   "sfrColorGrey70": "#a8a8a8",
   "sfrColorGrey80": "#c4c4c4",
   "sfrColorGrey90": "#dbdbdb",
+  "sfrColorGrey95": "#ededed",
+  "sfrColorGrey98": "#f5f5f5",
   "sfrColorGrey100": "#ffffff",
   "sfrColorSecondary10": "#5c2000",
   "sfrColorSecondary20": "#782a00",
