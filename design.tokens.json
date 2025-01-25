@@ -303,11 +303,37 @@
           },
           "$type": "color"
         },
+        "grey-95": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "grey-95",
+            "dsys.index": 11,
+            "dsys.styleId": "S:b768dffcc61e4c9a3d0641e0e079b5daab6a3e81,"
+          },
+          "$value": {
+            "hex": "#ededed",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "grey-98": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "grey-98",
+            "dsys.index": 12,
+            "dsys.styleId": "S:0c4b1cae30a80c7012450ffb3d77f5b0439ea8a9,"
+          },
+          "$value": {
+            "hex": "#f5f5f5",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
         "grey-100": {
           "$extensions": {
             "dsys.level": "token",
             "dsys.name": "grey-100",
-            "dsys.index": 11,
+            "dsys.index": 13,
             "dsys.styleId": "S:342eca1290ce6143ead6075b4ed6c9f9e7ac47f3,"
           },
           "$value": {
