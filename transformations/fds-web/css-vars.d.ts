@@ -20,6 +20,8 @@ export type SFRColorValue =
   'color-grey-70' |
   'color-grey-80' |
   'color-grey-90' |
+  'color-grey-95' |
+  'color-grey-98' |
   'color-grey-100' |
   'color-secondary-10' |
   'color-secondary-20' |
